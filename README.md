@@ -1,9 +1,9 @@
 # P8_21012011046
 # Alarm Application
 
-Submitted By: MAKWANA SWASTIK PRAVIN
+- Submitted By: MAKWANA SWASTIK PRAVIN
 
-Enrollment number: 21012011046
+- Enrollment number: 21012011046
 
 ## AIM
 Create an Alarm application by using service & BroadcastReceiver by following the instructions below.
